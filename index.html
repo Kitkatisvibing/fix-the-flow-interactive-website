@@ -1,0 +1,75 @@
+<html lang="en">
+	<head>
+	  <meta charset="UTF-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  <title>Story settings</title>
+	  <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="tumimundo.css">
+	</head>
+
+    <body>
+        <img src="assets/backbutton.png" alt="back button">
+        <h1>Story settings</h1>
+
+        <h2>Voice settings</h2>
+        <button popovertarget="voice-explanation"><img src="assets/iconinfo.png" alt="information icon"></button>
+            <div popover id="voice-explanation">
+                <h3>Voice colours explained</h3>
+                <p>There are a few different voices. 
+                To help you pick out the right one, you can press down to listen to a preview 
+                and/or look at the different colours and get an idea of the voices.</p>
+                <dl>
+                    <dt><img src="assets/iconhigh.png" alt="arrow pointing up"></dt> <dd>High</dd>
+                    <dt><img src="assets/iconlow.png" alt="arrow pointing down"></dt> <dd>Low</dd>
+                    <dt><img src="assets/iconsmooth.png" alt="fire symbol"></dt> <dd>Smooth</dd>
+                    <dt><img src="assets/iconwarm.png" alt="sun symbol"></dt> <dd>Warm</dd>
+                    <dt><img src="assets/iconneutral.png" alt="star symbol"></dt> <dd>Neutral</dd>
+                    <dt><img src="assets/iconraspy.png" alt="moon symbol"></dt> <dd>Raspy</dd>
+                </dl>
+            </div>
+        <p>Hold down the button to hear a preview of the voices</p>
+        <img src="assets/iconnovoice.png" alt="read aloud yourself">
+        <img src="assets/iconvera.png" alt="Vera">
+        <img src="assets/iconkasinah.png" alt="Kasinah">
+        <img src="assets/iconthuanhoa.png" alt="Thuan-Hoa">
+        <img src="assets/iconallyssa.png" alt="Allyssa">
+        <img src="assets/icondaan.png" alt="Daan">
+        <img src="assets/iconmichel.png" alt="Michel">
+        <img src="assets/icongijs.png" alt="Gijs">
+        <img src="assets/iconarjan.png" alt="Arjan">
+
+        <h2>pick a background</h2>
+            <img src="assets/backgroundoption1.svg" alt="blue sky background">
+        <p>Pick a background to display during the story</p>
+
+        <h2>Volume</h2>
+        <label>
+            <img src="assets/iconsound.png" alt="sound icon">
+            <input type="range">
+        </label>
+
+        <h2>sleep mode</h2>
+        <p>The story will automatically stop and the page will close after the chosen time</p>
+        <label for="sleepmode"><img src ="assets/iconsleepmode.png" alt="moon symbol with snore icon"></label>
+        <select name="time" id="sleepmode">
+            <option value="nosleep">sleep mode off</option>
+            <option value="5minutes">5 minutes</option>
+            <option value="10minutes">10 minutes</option>
+            <option value="15minutes">15 minutes</option>
+            <option value="20minutes">20 minutes</option>
+            <option value="30minutes">30 minutes</option>
+            <option value="1hour">1 hour</option>
+        </select>
+
+        <button popovertarget="confirm">continue</button>
+            <div popover id="confirm">
+                <h3>Save these settings?</h3>
+                <p>By clicking on continue you will be saving the story settings. 
+                    If you wish to change this, you can change them in settings. 
+                    Happy listening!</p>
+                <button class="savebutton">Save</button>
+                <button class="cancelbutton">Cancel</button>
+            </div>
+    </body>
+
+</html>

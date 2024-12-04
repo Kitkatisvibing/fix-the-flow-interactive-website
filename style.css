@@ -1,0 +1,31 @@
+body {
+    text-align:center;
+}
+
+dl{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+button{
+    background-color:var(--select-form-color);
+    color:var(--button-text-color);
+}
+
+.savebutton{
+    background-color:var(--important-color);
+}
+.cancelbutton{
+    background-color:var(--error-color);
+}
+
+/* EXAMPLE FOR MASK MODE */
+/* .icon-sound {
+    mask-mode: alpha;
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    mask-repeat: no-repeat;
+    mask-size: contain;
+} */
