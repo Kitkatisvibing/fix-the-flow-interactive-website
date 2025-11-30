@@ -15,10 +15,12 @@ Teken een schema op het whiteboard voor de komende 3 weken.
 Bekijk het programma van Sprint 5 en neem de belangrijke momenten en opdrachten uit het programma op in het schema.
 
 De Sprint Review in Sprint 5 is de laatste keer dit semester dat je de opdrachtgever spreekt. 
-Kan je al bedenken wat je dan wil laten zien? 
-Belangrijke momenten zijn ook de code/design reviews op vrijdag; wat wil je dan af hebben? 
+Kan je nu al bedenken wat je dan wil laten zien? 
+Belangrijke momenten zijn ook de code/design reviews op vrijdag; bekijk waar die over gaan en wat je dan af zou moeten hebben... 
 
-Neem ook de deeltaken "UI Events" en "JS Fundamentals" op het programma door. Bedenk wanneer je hier aan gaat werken en voeg deze toe aan het schema.
+### Deeltaken deze sprint
+
+Neem ook de deeltaken "UI Events", "CS challenge" en "JS Fundamentals" die op het programma staan door. Bedenk wanneer je hier aan gaat werken en voeg deze toe aan het schema. Misschien ben je al een eind gekomen met de JS fundamentals. Je kan dit nog een keer doen met de vragenlijst van semester 1 in je achterhoofd; weet je alles van het Document Object Model? Wat doet de querySelector en een addEventListener? Wat is een callback functie en wanneer heb je dat nodig? 
 
 ### Repo forken en klaarzetten
 
