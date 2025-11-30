@@ -50,8 +50,9 @@ Voor deze opdracht ga je eerst de interactie uitwerken in een Wireflow. Daarna g
 
 Een Wireflow toont een aantal schermen van een interactie. Het is nuttig om uit te denken wat een gebruiker te zien krijgt als die iets op een pagina doet, zoals een filter systeem gebruiken of met een carrousel verschillende plaatjes of producten bekijken.
 
+Met een Wireflow laat je zien hoe een interactie op een pagina eruit komt te zien, hieronder staat een wireflow voorbeeld van een zoekformulier om verhalen te vinden:
 ![Wireflow schets](wireflow-uitleg.png)
-_Met een Wireflow laat je zien hoe een interactie op een pagina eruit komt te zien, hier zie je het gebruiken van een zoekformulier om verhalen te vinden._
+
 
 Teken een Wireflow die alle mogelijke output, de belangrijkste userflow en de interactie duidelijk maakt. Een Wireflow toont opeenvolgende wireframes met de verschillende states/schermen die een gebruiker te zien krijgt.
 
