@@ -20,7 +20,7 @@ Belangrijke momenten zijn ook de code/design reviews op vrijdag; bekijk waar die
 
 ### Deeltaken deze sprint
 
-Neem ook de deeltaken "UI Events", "CS challenge" en "JS Fundamentals" die op het programma staan door. Bedenk wanneer je hier aan gaat werken en voeg deze toe aan het schema. Misschien ben je al een eind gekomen met de JS fundamentals. Je kan dit nog een keer doen met de vragenlijst van semester 1 in je achterhoofd; weet je alles van het Document Object Model? Wat doet de querySelector en een addEventListener? Wat is een callback functie en wanneer heb je dat nodig? 
+Neem ook de deeltaken "UI Events", "CSS challenge" en "JS Fundamentals" die op het programma staan door. Bedenk wanneer je hier aan gaat werken en voeg deze toe aan het schema. Misschien ben je al een eind gekomen met de JS Fundamentals. Je kan dit nog een keer doen met de vragenlijst van semester 1 in je achterhoofd; weet je alles van het Document Object Model? Wat doet de querySelector en een addEventListener? Wat is een callback functie en wanneer heb je dat nodig? 
 
 ### Repo forken en klaarzetten
 
