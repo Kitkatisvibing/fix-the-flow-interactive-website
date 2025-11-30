@@ -46,7 +46,7 @@ Een *User Story* volg een vaste schrijfwijze:
 
 ## Wireflow
 
-Voor deze opdracht ga je eerst de interactie uitwerken in een Wireflow. Daarna ga je de interactie coderen met HTML, CSS en JS.
+Voor deze opdracht ga je eerst de interactie ontwerpen in een Wireflow. Daarna ga je de interactie coderen met HTML, CSS en JS.
 
 Een Wireflow toont een aantal schermen van een interactie. Het is nuttig om uit te denken wat een gebruiker te zien krijgt als die iets op een pagina doet, zoals een filter systeem gebruiken of met een carrousel verschillende plaatjes of producten bekijken.
 
