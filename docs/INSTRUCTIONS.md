@@ -42,8 +42,20 @@ Deze sprint worden weer verschillende workshops aangeboden:
 
 Deze opdracht is done als:
 
+Oud
+
 - [ ] De website staat op GitHub en heeft een live url
 - [ ] Je hebt gestructureerd gewerkt met behulp van de development-lifecycle en je hebt het proces bijgehouden in jouw Learning Journal
 - [ ] Je hebt een interactie gecodeerd en het eindresultaat gedocumenteerd in de Readme
 - [ ] Je hebt een code/design review gedaan, issues aangemaakt en de feedback verwerkt
 - [ ] Je hebt een user test gedaan en de test gedocumenteerd in een issue
+
+
+Nieuw 
+- [ ] Je hebt aan de hand van een user story en wireflow een interactie ontworpen
+- [ ] Je hebt een interactie met JS gebouwd volgens het 3 stappenplan
+- [ ] Je hebt aan de hand van een testplan een user test gedaan, de testresultaten gebruikt voor een nieuwe versie, en opnieuw getest
+- [ ] Je hebt de ontwerpkeuzes voor jouw UI gedocumenteerd in de Readme
+- [ ] Je hebt de feedback van de opdrachtgever verwerkt en deze getest voor eindgebruikers en je project gepresenteerd tijdens de laatste sprint review
+
+
