@@ -2,9 +2,9 @@
 
 ## User Interface Design
 
-Met de User Interface (UI) wordt de ‘voorkant’ van een website of app bedoeld, het gedeelte dat de gebruiker ziet en interactie mee heeft. De UI bestaat uit het ontwerp, de layout met teksten en plaatjes, en interactieve elementen, zoals buttons, navigatie en formulieren.
+Met de _User Interface_ (UI) wordt de ‘voorkant’ van een website of app bedoeld, het gedeelte dat de gebruiker ziet en interactie mee heeft. De UI bestaat uit het ontwerp, de layout met teksten en plaatjes, en interactieve elementen, zoals buttons, navigatie en formulieren.
 
-In een goed ontwerp hou je rekening met de gebruiker. Zorg ervoor dat de UI voor de gebruiker duidelijk is door feedback en feedforward te ontwerpen: zorg ervoor dat een gebruiker weet wat die kan verwachten, *feedforward*, en of een interactie is gelukt, *feedback*. Niks is vervelender dan op een knop klikken en er gebeurt niets of iets anders dan je verwacht... Joshua Porter, user experience designer, schrijft:
+In een goed ontwerp hou je rekening met de gebruiker. Zorg ervoor dat de UI voor de gebruiker duidelijk is door feedback en feedforward te ontwerpen. Zorg ervoor dat een gebruiker weet wat die kan verwachten, *feedforward*, en of een interactie is gelukt, *feedback*. Niks is vervelender dan op een knop klikken en er gebeurt niets, of iets anders dan je verwacht... Joshua Porter, user experience designer, schrijft:
 
 > Keep users in control by regularly surfacing system status, by describing causation (if you do this that will happen) and by giving insight into what to expect at every turn - Joshua Porter, [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
 
@@ -16,9 +16,9 @@ Eerst ga je bedenken welke interactie je gaat maken en voor wie. Hiervoor schrij
 
 Daarna ga je de interactie ontwerpen in een *Wireflow*, zodat je goed weet wat je gaat bouwen. 
 
-Voor de interactie heb je JavaScript nodig. Onderzoek eerst het *JavaScript 3-stappenplan* dat je nodig hebt, en maak een breakdown-schets van je technische plan. 
+Voor de interactie heb je JavaScript nodig. Eerst gaan we het *JavaScript 3-stappenplan* dat je nodig hebt onderzoeken, en maak je een breakdown-schets van je technische plan. 
 
-Tijdens de code/design reviews deze sprint krijg je feedback op je code en ga je de interactie leren testen met een User test. 
+Tijdens de code/design reviews deze sprint krijg je feedback op je code en ga je de interactie leren testen met een *User Test*.
 
 
 
@@ -26,9 +26,11 @@ Tijdens de code/design reviews deze sprint krijg je feedback op je code en ga je
 
 Voordat je een Wireflow gaat tekenen, moet je eerst goed beschrijven wie de gebruiker is en wat de doelen van de gebruiker zijn. Daarna kun je met een *User Story* de interactie beschrijven die je gaat ontwerpen.
 
-Een *User Story* is een korte beschrijving (story) van wat een gebruiker (user) wil. Het is een kort verhaaltje, geschreven vanuit de gebruiker, en het maakt duidelijk wat een gebruiker wil. Bijvoobeeld: `Als een online shopper, wil ik de mogelijkheid hebben om producten te vergelijken, zodat ik de beste keuze kan maken en geld kan besparen.`
+Een *User Story* is een korte beschrijving (story) van wat een gebruiker (user) wil. Het is een kort verhaaltje, geschreven vanuit de gebruiker, en het maakt duidelijk wat een gebruiker wil. Bijvoorbeeld:
 
-In een *User Story* staat niet de oplossing beschreven of hoe iets er uit moet zien. Het is een 'ontwerpprobleem". Een 'User Story' beschrijft wat een gebruiker moet kunnen doen plus het gewenste resultaat. Daarna kan je door iteratief te werken, door te ontwerpen en bouwen em testen, de beste oplossing voor het 'probleem' proberen te maken. 
+> Als een online shopper, wil ik de mogelijkheid hebben om producten te vergelijken, zodat ik de beste keuze kan maken en geld kan besparen.
+
+In een *User Story* staat niet de oplossing beschreven of hoe iets er uit moet zien. Het is een “ontwerpprobleem”. Een “User Story” beschrijft wat een gebruiker moet kunnen doen, plus het gewenste resultaat. Daarna kan je door iteratief te werken, door te ontwerpen en bouwen em testen, de beste oplossing voor het “probleem” proberen te maken. 
 
 Een *User Story* volg een vaste schrijfwijze: 
 

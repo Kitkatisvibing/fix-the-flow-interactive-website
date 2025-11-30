@@ -4,7 +4,7 @@ Ontwerp en maak een interactieve website voor een opdrachtgever.
 
 ## Context
 
-Deze leertaak hoort bij sprint 5 _Fix the Flow_, dit is een leertaak die je individueel uitvoert.
+Deze leertaak hoort bij Sprint 5 _Fix the Flow_, dit is een leertaak die je individueel uitvoert.
 
 
 <!-- 
@@ -42,8 +42,9 @@ Deze sprint worden weer verschillende workshops aangeboden:
 
 Deze opdracht is done als:
 
-- [ ] De website staat op GitHub en heeft een live url
-- [ ] Je hebt gestructureerd gewerkt met behulp van de development-lifecycle en je hebt het proces bijgehouden in jouw Learning Journal
 - [ ] Je hebt een interactie gecodeerd en het eindresultaat gedocumenteerd in de Readme
 - [ ] Je hebt een code/design review gedaan, issues aangemaakt en de feedback verwerkt
 - [ ] Je hebt een user test gedaan en de test gedocumenteerd in een issue
+- [ ] forms en states?
+- [ ] iets met feedback en feedforward ontwerpen en maken? 
+- [ ] iets met project netjes opleveren omdat dit de laatste keer is? 
