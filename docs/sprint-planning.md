@@ -20,28 +20,28 @@ Belangrijke momenten zijn ook de code/design reviews op vrijdag; bekijk waar die
 
 ### Deeltaken deze sprint
 
-Neem ook de deeltaken "UI Events", "CSS challenge" en "JS Fundamentals" die op het programma staan door. Bedenk wanneer je hier aan gaat werken en voeg deze toe aan het schema. Misschien ben je al een eind gekomen met de JS Fundamentals. Je kan dit nog een keer doen met de vragenlijst van semester 1 in je achterhoofd; weet je alles van het Document Object Model? Wat doet de querySelector en een addEventListener? Wat is een callback functie en wanneer heb je dat nodig? 
+Neem ook de deeltaken “UI Events”, “CSS Challenges” en “JS Fundamentals” die op het programma staan door. Bedenk wanneer je hier aan gaat werken en voeg deze toe aan het schema. Misschien ben je al een eind gekomen met de JS Fundamentals. Je kan dit nog een keer doen met de vragenlijst van Semester 1 in je achterhoofd; weet je alles van het _Document Object Model_? Wat doet de `querySelector` en een `addEventListener`? Wat is een _callback functie_ en wanneer heb je dat nodig? 
 
 ### Repo forken en klaarzetten
 
 Fork en Clone deze leertaak. 
-Zet je issues in je nieuwe repo aan en voeg de relevante issues uit de vorige sprint toe aan je nieuwe repo.
+Zet je issues in je nieuwe repo aan en voeg de relevante issues uit de vorige sprint toe aan je nieuwe repo (via _Transfer issue_).
 
 Elke sprint schrijf je nieuwe code, ook al blijven onderdelen van de website hetzelfde. 
 Zo leer je beter coderen en nettere code schrijven. 
 
 
-### Projectboard
+### Project board
 
 Koppel het project board uit de vorige sprint aan de repository van Sprint 5, en voeg de planning van het schema toe.
 
-Als je het project board op *Roadmap* zet, krijg je een overzicht met je taken en een tijdplanning. Naast _assignees_, waar we vorige sprint mee begonnen zijn, kun je taken en issues ook een _tijdspad_ geven.
+Als je het project board op *Roadmap* zet, krijg je een overzicht met je taken en een tijdsplanning. Naast _assignees_, waar we vorige sprint mee begonnen zijn, kun je taken en issues ook een _tijdspad_ geven.
 
 ![](ghprojects-example-roadmap.webp)
-*De Roadmap-view van Github projects geeft een overzicht van taken en tijdsplanning.*
+*De Roadmap-view van GitHub Projects geeft een overzicht van taken en tijdsplanning.*
 
 #### Bronnen
-- [Changing the layout of a view - Github docs](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view)
+- [Changing the layout of a view - GitHub docs](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view)
 - [About date fields](https://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/about-date-fields)
 
 <!-- 

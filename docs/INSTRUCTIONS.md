@@ -43,7 +43,7 @@ Deze sprint worden weer verschillende workshops aangeboden:
 Deze opdracht is done als:
 
 - [ ] Je hebt aan de hand van een user story en wireflow een interactie ontworpen
-- [ ] Je hebt een interactie met JS gebouwd volgens het 3 stappenplan
+- [ ] Je hebt een interactie met HTML, CSS en JS gebouwd volgens het 3 stappenplan
 - [ ] Je hebt aan de hand van een testplan een user test gedaan, de testresultaten gebruikt voor een nieuwe versie, en opnieuw getest
 - [ ] Je hebt de ontwerpkeuzes voor jouw UI gedocumenteerd in de Readme
 - [ ] Je hebt de feedback van de opdrachtgever verwerkt en deze getest voor eindgebruikers en je project gepresenteerd tijdens de laatste sprint review
