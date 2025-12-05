@@ -1,0 +1,163 @@
+@font-face {
+  font-family: Amoria;
+  src: url('../AMORIA.otf');
+}
+
+@font-face {
+  font-family: Inter;
+  src: url('../Inter-VariableFont_opsz\,wght.ttf');
+}
+
+
+:root{
+    /* colours */
+    --primary-detail-color:#002646; /*heb deze naar hex verandered omdat de hsl net een andere kleur was dan het logo*/
+    --secondary-detail-color:hsl(37, 43%, 56%);
+    --third-detail-color:hsl(198, 35%, 67%);
+    --main-background-color:hsl(0, 0%, 100%);
+    --text-color-lightbg:hsl(208, 100%, 10%);
+    --text-color-darkbg:hsl(0, 0%, 100%);
+
+    /* fonts */
+
+    --ff-main: "Inter";
+    --ff-decorative: "Amoria";
+
+    /* font size */
+
+    --display-large:clamp(3.8rem, -0.825rem + 14.8vw, 7.5rem);
+    --display-medium:clamp(2.8rem, -0.325rem + 10vw, 5.3rem);
+    --heading-large:clamp(2.3rem, 1.3rem + 3.2vw, 3.1rem);
+    --heading-medium:clamp(1.25rem, -0.0625rem + 4.2vw, 2.3rem);
+    --heading-small:clamp(1.1rem, 0.6rem + 1.6vw, 1.5rem);
+    --body-medium:clamp(1.1rem, 0.9125rem + 0.6vw, 1.25rem);
+    --body-small:clamp(1rem, 0.875rem + 0.4vw, 1.1rem);
+
+
+}
+
+body{
+    font-size: var(--body-medium);
+    font-family: var(--ff-main);
+    background-color: var(--main-background-color);
+    color: var(--text-color-lightbg);
+    margin:0;
+}
+
+.menu{
+    display: none;
+}
+
+.menuOpen{
+    display: block;
+}
+
+header{
+    position: sticky;
+    top:0px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: var(--primary-detail-color);
+    color: var(--text-color-darkbg);
+
+    a:hover{
+        color: var(--secondary-detail-color)
+    }
+
+    h1{
+        font-size: var(--heading-medium);
+        font-family: var(--ff-decorative);
+    }
+}
+
+button {
+    appearance: none;
+    background-color: var(--primary-detail-color);
+    color:var(--text-color-darkbg);
+    border:none;
+    border-radius: 2em;
+    padding:1em 3em 1em 1em;
+    width: fit-content;
+    background-size:1,5em;
+    background-repeat:no-repeat;
+    background-position: 8.6em .5em;
+    font-family: inherit;
+    font-size: var(--body-small);
+    text-decoration: none;
+        
+    &:hover {
+        cursor:pointer;
+        background-color: var(--secondary-detail-color);
+        color: var(--text-color-lightbg);
+        background-size:1,5em;
+        background-repeat:no-repeat;
+        background-position: 8.6em .5em;
+            
+    }
+
+    &:active {
+        translate: 0 1px;
+    }
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+main{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+
+    @media (min-width: 600px){
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-column-gap: 10px;
+        grid-row-gap: 20px;
+    }
+        article{
+            height:15em;
+            width: 15em;
+            border: 3px solid var(--primary-detail-color);
+            border-radius: 5px;
+
+            h2{
+                background-color: var(--main-background-color);
+                margin-top: 0;
+            }
+
+            button{
+                float: right;
+                margin-top: 10em;
+            }
+        }
+    
+    article:nth-of-type(1){
+        background-image: url(../assets/article1.png);
+       }
+}
+
+footer{
+    background-color: var(--secondary-detail-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 5em;
+    align-items: end;
+    flex-wrap: wrap;
+    margin-top: 2em;
+
+     a:hover{
+        color: var(--third-detail-color)
+    }
+
+    .follow{
+        position: absolute;
+        left: 50%;
+    }
+}
