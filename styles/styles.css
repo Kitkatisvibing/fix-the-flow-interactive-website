@@ -71,7 +71,6 @@ header{
     }
 
     img{
-        color: var(--text-color-darkbg);
         height: 2em;
         width: 2em;
     }
