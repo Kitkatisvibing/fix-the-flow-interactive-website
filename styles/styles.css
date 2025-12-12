@@ -52,6 +52,22 @@ body{
     display: block;
 }
 
+.open{
+    animation-name: open;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes open {
+    0% {
+        transform: rotate(0);
+    }
+
+    100% {
+        transform: rotate(90deg);
+    }
+}
+
 header{
     position: sticky;
     top:0px;
@@ -80,6 +96,10 @@ header{
         top:4em;
         left:5em;
         background-color: var(--primary-detail-color);
+        
+        ul{
+            cursor: pointer;
+        }
     }
 }
 
