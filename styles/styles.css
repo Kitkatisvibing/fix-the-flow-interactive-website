@@ -69,6 +69,12 @@ header{
         font-size: var(--heading-medium);
         font-family: var(--ff-decorative);
     }
+
+    img{
+        color: var(--text-color-darkbg);
+        height: 2em;
+        width: 2em;
+    }
 }
 
 button {
