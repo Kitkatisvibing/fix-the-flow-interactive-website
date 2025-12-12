@@ -138,7 +138,7 @@ main{
             }
         }
     
-    article:nth-of-type(1){
+    article.index:nth-of-type(1){
         background-image: url(../assets/article1.png);
        }
 }
