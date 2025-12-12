@@ -98,6 +98,7 @@ button {
 
     &:active {
         translate: 0 1px;
+        background-color: var(--secondary-detail-color);
     }
 }
 
