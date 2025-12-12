@@ -74,6 +74,13 @@ header{
         height: 2em;
         width: 2em;
     }
+
+    nav{
+        position: absolute;
+        top:4em;
+        left:5em;
+        background-color: var(--primary-detail-color);
+    }
 }
 
 button {
@@ -82,7 +89,7 @@ button {
     color:var(--text-color-darkbg);
     border:none;
     border-radius: 2em;
-    padding:1em 3em 1em 1em;
+    padding:1em 1em 1em 1em;
     width: fit-content;
     background-size:1,5em;
     background-repeat:no-repeat;
