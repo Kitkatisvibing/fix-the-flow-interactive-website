@@ -91,6 +91,11 @@ header{
         width: 2em;
     }
 
+    .logo{
+        width: auto;
+        height: auto;
+    }
+
     nav{
         position: absolute;
         top:4em;
