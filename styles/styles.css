@@ -95,12 +95,40 @@ header{
         position: absolute;
         top:4em;
         left:5em;
-        background-color: var(--primary-detail-color);
-        
+        background-color: var(--primary-detail-color);        
         ul{
             cursor: pointer;
         }
     }
+}
+
+summary {
+        list-style: none;
+        cursor: pointer;
+        display: flex;
+        gap: 1rem; 
+        user-select: none;
+        padding-left: 0;
+    }
+
+    summary::before {
+    content: "▾"; 
+    display: inline-block;
+    transition: transform .5s;
+    }
+
+    details[open] summary::before {
+    transform: rotate(-90deg);
+    }
+
+li {
+    list-style: none;
+    font-size: 18px;
+    padding: .5em;
+    a{
+        text-decoration: none;
+        color: var(--text-color-darkbg);
+}
 }
 
 button {
@@ -186,7 +214,7 @@ footer{
     margin-top: 2em;
 
      a:hover{
-        color: var(--third-detail-color)
+        color: var(--text-color-darkbg)
     }
 
     .follow{
